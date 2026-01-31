@@ -123,3 +123,5 @@ Aspiring Data Analyst
 Skills: Power BI | SQL | Python | Business Analytics  
 
 ⭐ If you find this project useful, feel free to star the repository!
+<img width="1333" height="746" alt="Screenshot 2026-01-31 162656" src="https://github.com/user-attachments/assets/231e0f1e-2bc6-4c1d-a4d1-18528379e929" />
+
